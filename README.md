@@ -9,8 +9,12 @@ INSTALL：
 "radiopanel.txt" the files are in the Counter-Strike Global Offensive directory: *\Counter-Strike Global Offensive\csgo\resource\ui
 
 USE:
-
-After entering the game, press "~" to open the console, enter "joystick 1" carriage return, press "V" in the game can rotate 180 degrees.
+After all the installation, press "SHIFT" in the game is not only static walk function, but also clear any traces on the map, such as bloodstains, bullet holes, bomb traces.
+When the enemy is behind a bunker, you shoot at each other and a voice tells you that you hit each other.
+The radar map will try to show more areas, but you are no longer in the radar center.
+When you play in the official match, when you die, the top left corner of the screen will show you all the output before death.
+Press the "TAB" key will show the network and FPS state, release will disappear automatically.
+Press "~" to open the console, enter "joystick 1" carriage return, press "V" in the game can rotate 180 degrees.
 During the race, press "H" to quickly set the rapid voice volume of the team between 50% and 7%.
 Game, press "CAPS" can be achieved open the game reminder for C4 bomb position reminder, when the C4 in the smoke bombs.
 In the game, press "F6, F7, F8" to quickly speak to invite other players to praise your csgo information.
