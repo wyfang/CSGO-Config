@@ -14,7 +14,7 @@ When the enemy is behind a bunker, you shoot at each other and a voice tells you
 The radar map will try to show more areas, but you are no longer in the radar center.
 When you play in the official match, when you die, the top left corner of the screen will show you all the output before death.
 Press the "TAB" key will show the network and FPS state, release will disappear automatically.
-Press "~" to open the console, enter "joystick 1" carriage return, press "V" in the game can rotate 180 degrees.
+Pressing "N" will reset the automatic cancellation of the gun to the smashed gun and turn it on. Pressing "V" rotates the 180-degree angle of view.
 During the race, press "H" to quickly set the rapid voice volume of the team between 50% and 7%.
 Game, press "CAPS" can be achieved open the game reminder for C4 bomb position reminder, when the C4 in the smoke bombs.
 In the game, press "F6, F7, F8" to quickly speak to invite other players to praise your csgo information.
