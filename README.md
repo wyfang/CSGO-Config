@@ -24,3 +24,8 @@ If the host is on sv_cheats 1, press "ALT" to turn on or turn off perspective.
 The game's default voice will display the entire contents, such as the bombs explode.
 
 If you are the host, press "L" for 1 second to refresh the game. If the cheat mode is also turned on, press the “K” button to quickly set the game speed to 20×, press the “J” button to resume the normal game speed, and press the “I” button to turn on the recoilless mode.
+
+zoom_sensitivity_ratio_mouse "0.987533"
+Why is 0.987533:
+a sin(fov/2) multiplier, using 1:1 measurements and no diagonals.
+0% is just tan(fov/2), monitor match is just atan(multiplier * tan(fov/2)), and viewspeed is just sin(fov/2).
