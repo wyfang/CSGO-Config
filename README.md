@@ -18,10 +18,13 @@ Pressing "N" will reset the automatic cancellation of the gun to the smashed gun
 During the race, press "H" to quickly set the rapid voice volume of the team between 50% and 7%.
 Game, press "CAPS" can be achieved open the game reminder for C4 bomb position reminder, when the C4 in the smoke bombs.
 In the game, press "F6, F7, F8" to quickly speak to invite other players to praise your csgo information.
+In entertainment or warm-up mode, press "P" to commit suicide.
 
 If the host is on sv_cheats 1, when you are on the move, or shooting, squatting, jumping, etc., will always turn on god, to prevent the owner to manually turn you off god.
 If the host is on sv_cheats 1, press "ALT" to turn on or turn off perspective.
+If the host turns on sv_cheats 1, you will probably be invincible :)
 The game's default voice will display the entire contents, such as the bombs explode.
+
 
 If you are the host, press "L" for 1 second to refresh the game. If the cheat mode is also turned on, press the “K” button to quickly set the game speed to 20×, press the “J” button to resume the normal game speed, and press the “I” button to turn on the recoilless mode.
 
