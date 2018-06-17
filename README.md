@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2018-06-06 19:38
+Update：2018-06-17 12:27
 
 INSTALL：
 
@@ -12,7 +12,6 @@ USE:
 After all the installation, press "SHIFT" in the game is not only static walk function, but also clear any traces on the map, such as bloodstains, bullet holes, bomb traces.
 When the enemy is behind a bunker, you shoot at each other and a voice tells you that you hit each other.
 The radar map will try to show more areas, but you are no longer in the radar center.
-When you play in the official match, when you die, the top left corner of the screen will show you all the output before death.
 Press the "TAB" key will show the network and FPS state, release will disappear automatically.
 Pressing "N" will reset the automatic cancellation of the gun to the smashed gun and turn it on. Pressing "V" rotates the 180-degree angle of view.
 During the race, press "H" to quickly set the rapid voice volume of the team between 50% and 7%.
