@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2018-10-23 16:42
+Update：2019-02-26 10:30
 
 INSTALL：
 
@@ -24,5 +24,6 @@ If the host is on sv_cheats 1, press "ALT" to turn on or turn off perspective.
 If the host turns on sv_cheats 1, you will probably be invincible :)
 The game's default voice will display the entire contents, such as the bombs explode.
 
-
 If you are the host, press "L" for 1 second to refresh the game. If the cheat mode is also turned on, press the “K” button to quickly set the game speed to 20×, press the “J” button to resume the normal game speed, and press the “I” button to turn on the recoilless mode.
+
+Press "0" to place the safe in cheat mode.
