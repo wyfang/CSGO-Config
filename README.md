@@ -16,7 +16,7 @@ Press the "TAB" key will show the network and FPS state, release will disappear 
 Pressing "N" will reset the automatic cancellation of the gun to the smashed gun and turn it on. Pressing "V" rotates the 180-degree angle of view.
 During the race, press "H" to quickly set the rapid voice volume of the team between 50% and 7%.
 Game, press "CAPS" can be achieved open the game reminder for C4 bomb position reminder, when the C4 in the smoke bombs.
-In the game, press "F6, F7, F8,F9" to quickly speak to invite other players to praise your csgo information.
+In the game, press "F6, F7, F8, F9, O" to quickly speak to invite other players to praise your csgo information.
 In entertainment or warm-up mode, press "P" to commit suicide.
 
 If the host is on sv_cheats 1, when you are on the move, or shooting, squatting, jumping, etc., will always turn on god, to prevent the owner to manually turn you off god.
