@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2019-05-14 18:03
+Update：2019-06-20 21:22
 
 INSTALL：
 
@@ -24,5 +24,4 @@ If the host is on sv_cheats 1, press "ALT" to turn on or turn off perspective.
 If the host turns on sv_cheats 1, you will probably be invincible :)
 The game's default voice will display the entire contents, such as the bombs explode.
 
-Press "0" place the c4 safe at the farthest point in the center of the viewing angleto place the safe in cheat mode.
 Cancellation of Valve's big escape mode caused some buttons to be replaced, which will cause this cfg not to be used in the big escape mode.
