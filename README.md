@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2019-06-20 21:22
+Update：2019-07-01 11:26
 
 INSTALL：
 
@@ -15,13 +15,12 @@ The radar map will try to show more areas, but you are no longer in the radar ce
 Press the "TAB" key will show the network and FPS state, release will disappear automatically.
 Pressing "N" will reset the automatic cancellation of the gun to the smashed gun and turn it on. Pressing "V" rotates the 180-degree angle of view.
 During the race, press "H" to quickly set the rapid voice volume of the team between 50% and 7%.
-Game, press "CAPS" can be achieved open the game reminder for C4 bomb position reminder, when the C4 in the smoke bombs.
 In the game, press "F6, F7, F8, F9, O" to quickly speak to invite other players to praise your csgo information.
 In entertainment or warm-up mode, press "P" to commit suicide.
 
-If the host is on sv_cheats 1, when you are on the move, or shooting, squatting, jumping, etc., will always turn on god, to prevent the owner to manually turn you off god.
-If the host is on sv_cheats 1, press "ALT" to turn on or turn off perspective.
-If the host turns on sv_cheats 1, you will probably be invincible :)
-The game's default voice will display the entire contents, such as the bombs explode.
+In the cheat mode:
+Press "ALT" to turn on or turn off perspective.
+Press “CAPS” to quickly switch the flight mode.
+Press “Z” to get the jump device; press “C” to prevent the safe from being in the crosshair; press “B” to get the explosion-proof shield. (As soon as possible, the default Z\C\B function is still valid)
 
-Cancellation of Valve's big escape mode caused some buttons to be replaced, which will cause this cfg not to be used in the big escape mode.
+The game's default voice will display the entire contents, such as the bombs explode.
