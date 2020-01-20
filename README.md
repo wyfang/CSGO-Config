@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2019-11-09 13:11
+Update：2020-01-20 09:16
 
 INSTALL：
 
@@ -9,7 +9,7 @@ INSTALL：
 "radiopanel.txt" the files are in the Counter-Strike Global Offensive directory: *\Counter-Strike Global Offensive\csgo\resource\ui
 
 USE:
-After all the installation, press "SHIFT" in the game is not only static walk function, but also clear any traces on the map, such as bloodstains, bullet holes, bomb traces.
+After all the installation, Any fire and movement in the game will automatically clear any traces on the map, such as blood, bullet holes, bomb marks.
 When the enemy is behind a bunker, you shoot at each other and a voice tells you that you hit each other.
 The radar map will try to show more areas, but you are no longer in the radar center.
 Press the "TAB" key will show the network and FPS state, release will disappear automatically.
