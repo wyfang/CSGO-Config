@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2020-04-25 15:37
+Update：2020-04-28 18:50
 
 INSTALL：
 
@@ -14,9 +14,8 @@ When the enemy is behind a bunker, you shoot at each other and a voice tells you
 The radar map will try to show more areas, but you are no longer in the radar center.
 Press the "TAB" key will show the network and FPS state, release will disappear automatically.
 Pressing "N" will reset the automatic cancellation of the gun to the smashed gun and turn it on. Pressing "V" rotates the 180-degree angle of view.
-During the game, press “L” to quickly switch your microphone between you can hear and normal mode.
 During the race, press "H" to quickly set the rapid voice volume of the team between 50% and 7%.
-In the game, press "F6, F7, F8, F9, O, J, K" to quickly speak to invite other players to praise your csgo information.
+In the game, press "F6, F7, F8" to quickly speak to invite other players to praise your csgo information.
 In entertainment or warm-up mode, press "P" to commit suicide.
 
 In the cheat mode:
