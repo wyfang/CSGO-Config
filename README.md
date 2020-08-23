@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2020-04-28 18:50
+Update：2020-08-23 13:32
 
 INSTALL：
 
