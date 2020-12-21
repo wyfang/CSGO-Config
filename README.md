@@ -25,7 +25,7 @@ Press “Z” to get the jump device; press “C” to prevent the safe from bei
 The game's default voice will display the entire contents, such as the bombs explode.
 
 
-＃Wi-Fi CSGO-CFG 配置文件
+===========================
 更新时间：2020-12-21 20:55
 
 安装：
