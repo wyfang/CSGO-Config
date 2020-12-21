@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Update：2020-08-23 13:32
+Update：2020-12-21 20:55
 
 INSTALL：
 
@@ -19,7 +19,6 @@ In the game, press "F6, F7, F8" to quickly speak to invite other players to prai
 In entertainment or warm-up mode, press "P" to commit suicide.
 
 In the cheat mode:
-Press "ALT" to turn on or turn off perspective.
 Press “CAPS” to quickly switch the flight mode.
 Press “Z” to get the jump device; press “C” to prevent the safe from being in the crosshair; press “B” to get the explosion-proof shield. (As soon as possible, the default Z\C\B function is still valid)
 
