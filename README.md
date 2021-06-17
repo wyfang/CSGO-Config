@@ -6,9 +6,9 @@ The "config.cfg" file is located in the Steam software directory:*\Steam\userdat
 
 The "video.txt" file is located in the Steam software directory: *\Steam\userdata\userid\730\local\cfg\
 
-The "autoexec.cfg" and cfg files starting with "wifi-" are located in the Counter-Strike Global Offensive directory:*\Counter- Strike Global Offensive\csgo\cfg\
+The "autoexec.cfg" and cfg files starting with "wifi-" are located in the Counter-Strike Global Offensive directory:*\Counter-Strike Global Offensive\csgo\cfg\
 
-The file "radiopanel.txt" is located in the Counter-Strike Global Offensive directory:*\Counter-Strike Global Offensive\csgo\resource \ui
+The file "radiopanel.txt" is located in the Counter-Strike Global Offensive directory:*\Counter-Strike Global Offensive\csgo\resource\ui
 
 Ues.
 Once installed, any fire and movement in the game will automatically remove any traces of blood, bullet holes and bomb traces from the map.
