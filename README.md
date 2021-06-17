@@ -3,23 +3,35 @@ Updated: 2021-06-17 19:32
 
 Install:
 The "config.cfg" file is located in the Steam software directory:*\Steam\userdata\userid\730\local\cfg
+
 The "video.txt" file is located in the Steam software directory: *\Steam\userdata\userid\730\local\cfg\
+
 The "autoexec.cfg" and cfg files starting with "wifi-" are located in the Counter-Strike Global Offensive directory:*\Counter- Strike Global Offensive\csgo\cfg\
+
 The file "radiopanel.txt" is located in the Counter-Strike Global Offensive directory:*\Counter-Strike Global Offensive\csgo\resource \ui
 
 Ues.
 Once installed, any fire and movement in the game will automatically remove any traces of blood, bullet holes and bomb traces from the map.
+
 When an enemy is behind cover, a sound will tell you that the opponent has been hit when you shoot to concentrate the enemy.
+
 The radar map will try to show more areas, but you are no longer in the centre of the radar.
+
 Pressing "TAB" will display the network and FPS status and the release will automatically disappear.
+
 Pressing "N" will reset the auto-canceled gun to the smashed gun and turn it on. Pressing "V" will rotate the view 180 degrees.
+
 During a match, press "H" to quickly set the team's fast voice volume between 50% and 7%.
+
 During a game, press "F6, F7, F8" to quickly speak to invite other players to compliment your csgo message.
+
 Press "mouse5" to kill yourself in entertainment, warm-up mode or if the server allows it.
+
 Pressing "Alt" will open cheat mode and will say "!drop" to your teammates.
 
 In cheat mode.
 Press "CAPS" to quickly switch to flight mode.
+
 Press "Z" to get a jump device; press "C" to prevent the safe from entering the crosshairs; press "B" to get a blast shield. (As soon as possible, the default Z\C\B function will still work)
 
 The game's default sounds will show the full content, e.g. bombs going off.
