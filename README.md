@@ -2,6 +2,7 @@
 Updated: 2021-06-17 19:32
 
 Install:
+
 The "config.cfg" file is located in the Steam software directory:*\Steam\userdata\userid\730\local\cfg
 
 The "video.txt" file is located in the Steam software directory: *\Steam\userdata\userid\730\local\cfg\
@@ -37,6 +38,7 @@ Press "Z" to get a jump device; press "C" to prevent the safe from entering the 
 The game's default sounds will show the full content, e.g. bombs going off.
 
 ===========================
+
 更新时间：2021-06-17 19:32
 
 安装：
@@ -69,6 +71,7 @@ The game's default sounds will show the full content, e.g. bombs going off.
 在娱乐、热身模式或服务器允许的情况下下，按“mouse5”自杀。
 
 按下“Alt”将打开作弊模式且会对队友说“!drop”。
+
 
 在作弊模式下：
 
