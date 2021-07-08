@@ -22,7 +22,7 @@ Pressing "TAB" will display the network and FPS status and the release will auto
 
 Pressing "N" will reset the auto-canceled gun to the smashed gun and turn it on. Pressing "V" will rotate the view 180 degrees.
 
-During a match, press "H" to quickly set the team's fast voice volume between 50% and 7%.
+During a match, press "H" to quickly set the team's fast voice volume between 20% and 7%.
 
 During a game, press "F6, F7, F8" to quickly speak to invite other players to compliment your csgo message.
 
@@ -64,7 +64,7 @@ The game's default sounds will show the full content, e.g. bombs going off.
 
 按下“N”将把自动取消的枪重置为被砸的枪并打开它。按下“V”将旋转180度的视角。
 
-在比赛过程中，按“H”可将团队的快速语音音量快速设置在50％和7％之间。
+在比赛过程中，按“H”可将团队的快速语音音量快速设置在20％和7％之间。
 
 在游戏中，按“F6，F7，F8”快速发言以邀请其他玩家赞美您的csgo信息。
 
