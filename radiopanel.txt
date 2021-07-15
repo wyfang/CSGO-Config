@@ -134,12 +134,6 @@
 					"label"	"#SFUI_Radio_Sorry"
 					"cmd"	"sorry"
 				}
-				"Wi-Fi Chat"
-				{
-					"hotkey"	"9"
-					"label"	"Wi-Fi Chat"
-					"cmd"	"exec wifi-chat.cfg"
-				}
 			}
 		}
 		
